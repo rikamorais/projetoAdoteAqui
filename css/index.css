@@ -1,0 +1,93 @@
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.telacheia {
+    width: 100%;
+}
+
+.altura_nav {
+    height: 70px;
+}
+
+h1 {
+    font-size: 20pt;
+    font-weight: bold;
+    
+}
+
+.header {
+    display: flex;
+    
+}
+
+.titulo {
+    background-color: #ffd000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 60%;
+    align-items: center;
+    text-align: center;
+    font-size: 12pt;
+    
+}
+
+.titulo:hover {
+    font-size: 14pt;
+}
+
+.menu {
+    background-color: black;
+    width: 40%;
+    color: #ffd000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: bold;
+    list-style:none;
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-imagens {
+    display: inline-block;
+    
+}
+
+.imagem {
+    width: 25%;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+/* -------- LINKS ----------*/
+
+a:link {
+    color: #FFD000;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#d3ac00
+}
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: orange;
+}
+
+/*---------------------------*/

@@ -30,6 +30,7 @@ h1 {
     align-items: center;
     text-align: center;
     font-size: 12pt;
+    height: 80px;
     
 }
 
@@ -46,6 +47,7 @@ h1 {
     justify-content: space-around;
     font-weight: bold;
     list-style:none;
+    height: 80px;
 }
 
 
@@ -103,5 +105,8 @@ a:active {
         margin: 0;
         padding: 0;
         border: 0;
+    }
+    .menu{
+        width: 100%;
     }
 }

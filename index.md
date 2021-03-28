@@ -39,7 +39,7 @@
             <img class="imagem" src="imagens/Gato3.jpg">
      </section>
      <footer class="center">
-         Todos os diretos reservados
+         &copy; Todos os diretos reservados
      </footer>
     </body>
 </html>

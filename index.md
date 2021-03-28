@@ -12,14 +12,28 @@
 
         
         <header class="flex">
-            <section class="titulo altura_nav">
+            <section class="titulo altura_menu">
                 <h1>Adote aqui!</h1>
             </section>
-            <section class="menu flex">
-                <section class="center"><a href="index.html">Home</a></section>
-                <section class="center"><a href="#">Sobre</a></section>
-                <section class="center"><a href="#">Contato</a></section>
-            </section>
+            <!--
+                
+                <section class="menu flex">
+                    <section class="center"><a href="index.html">Home</a></section>
+                    <section class="center"><a href="#">Sobre</a></section>
+                    <section class="center"><a href="#">Contato</a></section>
+                </section>
+            
+
+        -->
+
+            <div class="back_black altura_menu">
+                    <ul>
+                        <li class="inline"><a href="index.html">Home</a></li>
+                        <li class="inline"><a href="#.html">Sobre</a></li>
+                        <li class="inline"><a href="#.html">Contato</a></li>
+                    </ul>>
+                    
+            </div>
         </header>
 
         <section class="flex wrap">

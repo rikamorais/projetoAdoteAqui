@@ -103,7 +103,12 @@ a:active {
 
 /*---------------------------*/
 
-@media (max-width: 700px){
+footer {
+    color:#FFD000;
+    background-color: black;
+}
+
+@media (max-width: 768px){
 
     .titulo {
     display: none;
@@ -111,7 +116,31 @@ a:active {
 
     .imagem {
         width: 25%;
-        height: 150px;
+        height: 200px;
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+    .menu{
+        width: 100%;
+    }
+
+    .altura_menu {
+        height: 70px;
+        width: 100%;
+        text-align: 100%;
+    }
+}
+
+@media (max-width: 375px){
+
+    .titulo {
+    display: none;
+    }
+
+    .imagem {
+        width: 25%;
+        height: 100px;
         margin: 0;
         padding: 0;
         border: 0;

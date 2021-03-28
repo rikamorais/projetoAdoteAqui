@@ -39,17 +39,17 @@
         <section class="flex wrap">
             <img class="imagem" src="imagens/Cachorro1.jpg">
             <img class="imagem" src="imagens/Cachorro2.jpg">
-            <img class="imagem" src="imagens/Gato2.jpg">
+            <img class="imagem" src="imagens/Gato2_1.jpg">
             <img class="imagem" src="imagens/Gato3.jpg">
             <img class="imagem" src="imagens/Gato1.jpeg">
             <img class="imagem" src="imagens/Cachorro3.jpg">
             <img class="imagem" src="imagens/Cachorro4.jpg">
-            <img class="imagem" src="imagens/Cachorro5.jpg">
-            <img class="imagem" src="imagens/Cachorro6.jpg">
-            <img class="imagem" src="imagens/Cachorro7.jpg">
+            <img class="imagem" src="imagens/Cachorro5_1.jpg">
+            <img class="imagem" src="imagens/Cachorro6_1.jpg">
+            <img class="imagem" src="imagens/Cachorro7_1.jpg">
             <img class="imagem" src="imagens/Cachorro8.jpg">
             <img class="imagem" src="imagens/Cachorro9.jpeg">
-            <img class="imagem" src="imagens/Cachorro10.jpeg">
+            <img class="imagem" src="imagens/Cachorro10_1.jpeg">
             <img class="imagem" src="imagens/Cachorro11.jpeg">
      </section>
      <footer class="center">

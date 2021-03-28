@@ -4,39 +4,43 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.telacheia {
-    width: 100%;
-}
 
-.altura_nav {
-    height: 70px;
-}
-
-h1 {
+header h1 {
     font-size: 20pt;
     font-weight: bold;
+    position: relative;
+    top: 20px;
     
 }
 
-.header {
-    display: flex;
-    
+.back_black {
+    background-color: black;
+}
+
+.altura_menu {
+    height: 70px;
+    width: 40%;
 }
 
 .titulo {
     background-color: #ffd000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 60%;
-    align-items: center;
     text-align: center;
     font-size: 12pt;
-    height: 80px;
-    
+
 }
 
-.titulo:hover {
-    font-size: 14pt;
+header li {
+    position: relative;
+    top: 25px;
+    left: 40px;
+    margin: 0 0 0 30px;
+    color:#FFD000;
+    font-weight: bold;
+    font-size: 20pt;
 }
+
 
 .menu {
     background-color: black;
@@ -48,6 +52,7 @@ h1 {
     font-weight: bold;
     list-style:none;
     height: 80px;
+    font-size: 20pt;
 }
 
 
@@ -59,6 +64,10 @@ h1 {
 .flex-imagens {
     display: inline-block;
     
+}
+
+.inline {
+    display: inline;
 }
 
 .imagem {
@@ -99,6 +108,7 @@ a:active {
     .titulo {
     display: none;
     }
+
     .imagem {
         width: 25%;
         height: 150px;
@@ -108,5 +118,11 @@ a:active {
     }
     .menu{
         width: 100%;
+    }
+
+    .altura_menu {
+        height: 70px;
+        width: 100%;
+        text-align: 100%;
     }
 }

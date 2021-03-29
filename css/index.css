@@ -34,11 +34,10 @@ header h1 {
 header li {
     position: relative;
     top: 15px;
-
     margin: 0 0 0 20px;
     color:#FFD000;
     font-weight: bold;
-    font-size: 20pt;
+    font-size: 15pt;
 }
 
 
@@ -52,13 +51,25 @@ header li {
     font-weight: bold;
     list-style:none;
     height: 80px;
-    font-size: 20pt;
+    font-size: 15pt;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.block {
+    display: block;
 }
 
 
 .flex {
     display: flex;
-    flex-wrap: wrap;
 }
 
 .flex-imagens {

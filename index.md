@@ -15,24 +15,14 @@
             <div class="titulo">
                 <h1>Adote aqui!</h1>
             </div>
-            <!--
-                
-                <section class="menu flex">
-                    <section class="center"><a href="index.html">Home</a></section>
-                    <section class="center"><a href="#">Sobre</a></section>
-                    <section class="center"><a href="#">Contato</a></section>
-                </section>
-            
-
-        -->
         
-            <div class="menu">
+                <div class="menu">
                     <ul>
-                        <li class="inline"><a href="index.html">Home</a></li>
-                        <li class="inline"><a href="#.html">Sobre</a></li>
-                        <li class="inline"><a href="#.html">Contato</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="#.html">Sobre</a></li>
+                        <li><a href="#.html">Contato</a></li>
                     </ul>
-                    
+
             </div>
         </header>
 
@@ -51,7 +41,8 @@
             <img class="imagem" src="imagens/Cachorro9.jpeg" alt="cachorro9">
             <img class="imagem" src="imagens/Cachorro10_1.jpeg" alt="cachorro10">
             <img class="imagem" src="imagens/Cachorro11.jpeg" alt="cachorro11">
-            <img class="imagem1" src="imagens/logo.png" alt="Adote aqui!">
+            <img class="imagem" src="imagens/adoteaqui1.png" alt="Adote aqui!">
+            <img class="imagem" src="imagens/adoteaqui2.png" alt="Adote aqui!">
             
             
      </section>
